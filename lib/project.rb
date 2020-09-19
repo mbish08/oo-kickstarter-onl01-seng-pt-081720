@@ -17,5 +17,6 @@ class Project
   else
     backer.backed_projects << self 
   end 
+  end 
   
 end 
