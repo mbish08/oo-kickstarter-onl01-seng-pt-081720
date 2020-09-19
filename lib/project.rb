@@ -9,9 +9,9 @@ class Project
     @backers = []
   end 
   
-  def add_backer(name)
+  def add_backer(backer)
    # binding.pry
-    @backers << name 
+    @backers << backer 
     
   end 
   
